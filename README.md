@@ -9,7 +9,7 @@ DOMAIN: PYTHON
 
 DURATION: 4 WEEKS
 
-MENTOR:
+MENTOR: NEELA SANTHOSH
 
 # Sales Report Generator using Python and FPDF
 
