@@ -45,12 +45,7 @@ The generated PDF report is ideal for business stakeholders, managers, and data 
 
 
 
-## Sample Data Format (CSV)
 
-```csv
-Date,Product,Units Sold,Unit Price
-2024-01-01,Keyboard,10,500
-2024-01-02,Mouse,15,300
-2024-01-03,Monitor,5,7000
+
 
 ![Image](https://github.com/user-attachments/assets/345afecd-2f74-4ddf-add1-96387bc00bf3)
